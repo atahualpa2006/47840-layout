@@ -1,0 +1,7 @@
+.sidebar{
+    border: 0;
+    background-color: rgb(180, 180, 213);
+    height: calc(100vh - var(--header-height));
+    border: 0;
+    position: fixed;
+}

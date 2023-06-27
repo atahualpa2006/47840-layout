@@ -1,0 +1,9 @@
+.head {
+    background-color: aquamarine;
+    height: 10vh;
+    padding: 0;
+    border: 0;
+    display: flex;
+    justify-content: center;
+
+}
